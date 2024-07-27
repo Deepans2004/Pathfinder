@@ -17,8 +17,8 @@ Welcome to the Path Finder Application! This project demonstrates the implementa
 # Demonstration of Working of Path Finder
 
 ## Dijkstra's Algorithm:-
-https://github.com/user-attachments/assets/c77fb02d-01d7-4cf3-b628-0ac78e7c949e
+https://github.com/user-attachments/assets/f2e87eed-6cbf-4662-b4eb-f34316fab293
 
 ## A* Algorithm:-
-https://github.com/user-attachments/assets/52d70d32-60e1-4f5e-ac13-198c4d8aca52
+https://github.com/user-attachments/assets/71753091-9ad8-47ca-a928-d373c1ec20e3
 
